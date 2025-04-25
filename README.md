@@ -7,8 +7,11 @@ Welcome to the **E-Commerce Database Design Project**! This project defines a ro
 ## 📁 Project Structure
 
 📦 ecommerce-database/ 
+
 ├── E-commerce Database Design ERD.png # ERD
-├── ecommerce.sql        # SQL script to create all database tables  
+
+├── ecommerce.sql        # SQL script to create all database tables 
+
 └── README.md            # Project documentation (this file)
 
 ---

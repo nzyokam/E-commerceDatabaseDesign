@@ -57,5 +57,5 @@ Welcome to the **E-Commerce Database Design Project**! This project defines a ro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-database.git
-   cd ecommerce-database
+   git clone "https://github.com/nzyokam/E-commerceDatabaseDesign.git"
+   cd "E-commerceDatabaseDesign"
